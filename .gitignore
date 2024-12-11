@@ -1,0 +1,6 @@
+# Node.js
+node_modules/
+blog-app/.nuxt/
+blog-app/.output/
+blog-app/dist/
+*.log
